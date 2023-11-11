@@ -16,7 +16,9 @@ Please hand in your html file(s) and all file necessary to view your webpage. If
 
 # License
 
-+ Embed AES HTML5 Animation [© Forma Estudio 2021 (only used for educational purpose in this practice)](https://formaestudio.com/portfolio/aes-animation/)
++ Embed AES HTML5 Animation [Copyright © Forma Estudio 2021 (only used for educational purpose in this practice)](https://formaestudio.com/portfolio/aes-animation/)
+
++ Embed Youtube Video [Copyright © 2012 Khan Academy(youtube_channel@khanacademy) (only used for educational purpose in this practice)](https://www.youtube.com/watch?v=Kf9KjCKmDcU)
 
 + File "./index.html" **GNU AGPLv3** (refer to File "./LICENSE")
 
