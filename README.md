@@ -15,5 +15,7 @@ Please hand in your html file(s) and all file necessary to view your webpage. If
 """
 
 #License
+
 File "./index.html" GNU AGPLv3 (refer to File "./LICENSE")
+
 File "./d37988688308babbce499d670cfd6e4db6fb9b6d684254d8ec2ffd10b3767721.png" CC-BY-4.0 Copyright © 2014-2023 Free Software Foundation, Inc. (https://emailselfdefense.fsf.org/static/img/en/full-infographic.png)
