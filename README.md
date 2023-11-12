@@ -14,7 +14,7 @@ Please hand in your html file(s) and all file necessary to view your webpage. If
 
 ```
 
-The File"./checksums.sha256" will be signed by PGP. 
+The File"./checksums-signed.txt" will be signed by PGP. 
 
 The PGP Public Key can get from [GitHub Public Key Server](https://github.com/wts220828.gpg) or [OpenPGP Key Server](https://keys.openpgp.org/search?q=s220828%40wtsmc.edu.hk). 
 
@@ -28,14 +28,14 @@ The PGP Public Key can get from [GitHub Public Key Server](https://github.com/wt
 
 + Font "Ubuntu Mono" **Ubuntu font licence** [Font Specimen Page (Google Font)](https://fonts.google.com/specimen/Ubuntu+Mono)
 
-+ Font "Comic Neue" and "Linefont" **SIL Open Font License** [Comic Neue Font Specimen Page (Google Font)](https://fonts.google.com/specimen/Comic+Neue) [Linefont Font Specimen Page (Google Font)](https://fonts.google.com/specimen/Linefont)
++ Font "Linefont" **SIL Open Font License** [Linefont Font Specimen Page (Google Font)](https://fonts.google.com/specimen/Linefont)
 
 + Part of the contect in File "./index.html" is from WikiPedia **CC-BY-SA 4.0**
 ```
 
-https://en.wikipedia.org/wiki/Cryptographer
+https://en.wikipedia.org/wiki/Cryptographer/
 
-https://en.wikipedia.org/wiki/Cryptography
+https://en.wikipedia.org/wiki/Cryptography/
 
 ```
 
