@@ -24,8 +24,6 @@ The PGP Public Key can get from [GitHub Public Key Server](https://github.com/wt
 
 + Embed Youtube Video [Copyright © 2012 Khan Academy(youtube_channel@khanacademy) (only used for educational purpose in this practice)](https://www.youtube.com/watch?v=Kf9KjCKmDcU)
 
-+ File "./index.html" **GNU AGPLv3** (refer to File "./LICENSE")
-
 + File "./d37988688308babbce499d670cfd6e4db6fb9b6d684254d8ec2ffd10b3767721.png" **CC-BY-4.0** Copyright © 2014-2023 *Free Software Foundation, Inc.* [Original File(from FSF)](https://emailselfdefense.fsf.org/static/img/en/full-infographic.png)
 
 + Font "Ubuntu Mono" **Ubuntu font licence** [Font Specimen Page (Google Font)](https://fonts.google.com/specimen/Ubuntu+Mono)
