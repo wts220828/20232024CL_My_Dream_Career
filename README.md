@@ -14,6 +14,9 @@ Please hand in your html file(s) and all file necessary to view your webpage. If
 
 ```
 
+This is the screenshot of File"./index.html" on Mozilla FireFox 119.0.1(64-bit) on Microsoft Windows 11 Home 22H2(Trad. Chinese)
+![ScreenShot](./ScreenShot_Build_202311121051.png)
+
 The File"./checksums-signed.txt" will be signed by PGP. 
 
 The PGP Public Key can get from [GitHub Public Key Server](https://github.com/wts220828.gpg) or [OpenPGP Key Server](https://keys.openpgp.org/search?q=s220828%40wtsmc.edu.hk). 
