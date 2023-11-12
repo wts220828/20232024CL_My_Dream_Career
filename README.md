@@ -14,8 +14,9 @@ Please hand in your html file(s) and all file necessary to view your webpage. If
 
 ```
 
-This is the screenshot of File"./index.html" on Mozilla FireFox 119.0.1(64-bit) on Microsoft Windows 11 Home 22H2(Trad. Chinese)
+Screenshot if the webpage correctly shown:
 ![ScreenShot](./ScreenShot_Build_202311121051.png)
+(Capped on Mozilla FireFox 119.0.1(64-bit) Microsoft Windows 11 Home 22H2(Trad. Chinese))
 
 The File"./checksums-signed.txt" will be signed by PGP. 
 
