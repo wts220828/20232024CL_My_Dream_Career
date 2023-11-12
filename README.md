@@ -16,7 +16,7 @@ Please hand in your html file(s) and all file necessary to view your webpage. If
 
 The File"./checksums.sha256" will be signed by PGP. 
 
-The PGP Public Key can get from [GitHub Public Key Server](https://github.com/wts220828.gpg) , [OpenPGP Key Server](https://keys.openpgp.org/search?q=s220828%40wtsmc.edu.hk) or from File"./088C62AF63CD9A37DDE6325F1DB74B76D63D4428_public.asc". 
+The PGP Public Key can get from [GitHub Public Key Server](https://github.com/wts220828.gpg) or [OpenPGP Key Server](https://keys.openpgp.org/search?q=s220828%40wtsmc.edu.hk). 
 
 # License
 
